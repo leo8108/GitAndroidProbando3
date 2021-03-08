@@ -11,4 +11,8 @@ class FrontEnd {
     //creando metodos estaticos
     //creando constantes a usar
 
+
+    //uuuuuu
+    ///oooooo
+    //rrrrrr
 }
