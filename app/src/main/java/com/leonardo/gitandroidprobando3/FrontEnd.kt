@@ -6,6 +6,9 @@ class FrontEnd {
   //agregando los metodos
   //agregando constructor
   //agregando mas cosas
+  //sdfsdf
+  //yyyy
+  //uuu
 
 
     //creando metodos estaticos
