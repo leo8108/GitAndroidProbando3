@@ -19,4 +19,7 @@ class MainActivity : AppCompatActivity() {
     fun metodo2(){
 
     }
+
+    fun metodo3(){
+}
 }
