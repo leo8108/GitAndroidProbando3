@@ -14,4 +14,9 @@ class MainActivity : AppCompatActivity() {
 
 
     }
+
+
+    fun metodo2(){
+
+    }
 }
